@@ -95,6 +95,7 @@ button:hover{
 
 header {
   background-image: url("Capture.png");
+  background-size:contain;
   height: 76vw;
   width:100%;
 }
